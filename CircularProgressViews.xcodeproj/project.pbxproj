@@ -13,6 +13,7 @@
 		4C5CAFC229B8243F002570A2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C5CAFC129B8243F002570A2 /* Preview Assets.xcassets */; };
 		4C5CAFC929B82512002570A2 /* CircularProgressViewWithBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5CAFC829B82512002570A2 /* CircularProgressViewWithBackground.swift */; };
 		4CB229F129B8287E00345D2A /* CircularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB229F029B8287E00345D2A /* CircularProgressView.swift */; };
+		4CB229F329B82A9D00345D2A /* extension+color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB229F229B82A9D00345D2A /* extension+color.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		4C5CAFC129B8243F002570A2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4C5CAFC829B82512002570A2 /* CircularProgressViewWithBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressViewWithBackground.swift; sourceTree = "<group>"; };
 		4CB229F029B8287E00345D2A /* CircularProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressView.swift; sourceTree = "<group>"; };
+		4CB229F229B82A9D00345D2A /* extension+color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "extension+color.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				4C5CAFC029B8243F002570A2 /* Preview Content */,
 				4C5CAFC829B82512002570A2 /* CircularProgressViewWithBackground.swift */,
 				4CB229F029B8287E00345D2A /* CircularProgressView.swift */,
+				4CB229F229B82A9D00345D2A /* extension+color.swift */,
 			);
 			path = CircularProgressViews;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CB229F329B82A9D00345D2A /* extension+color.swift in Sources */,
 				4C5CAFC929B82512002570A2 /* CircularProgressViewWithBackground.swift in Sources */,
 				4C5CAFBD29B82438002570A2 /* ContentView.swift in Sources */,
 				4CB229F129B8287E00345D2A /* CircularProgressView.swift in Sources */,
