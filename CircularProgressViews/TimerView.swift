@@ -26,6 +26,7 @@ struct TimerView: View {
             VStack {
                 ZStack {
                     // TODO: if in landscape mode use height instead of width
+                    // TODO: change color to same as insideColor to see that there appears to be the tiniest of space between the inside circle and outside circle
                     CircularProgressViewWithBackground(progress: percent, color: .coolGray, lineWidth: 16, insideColor: .brightPink, width: geo.size.width)
                     Text("\(timeRemaining, specifier: "%.0f")")
                         .font(.system(size: 180, weight: .thin, design: .monospaced))
