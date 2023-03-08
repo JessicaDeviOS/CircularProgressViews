@@ -14,6 +14,7 @@
 		4C5CAFC929B82512002570A2 /* CircularProgressViewWithBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5CAFC829B82512002570A2 /* CircularProgressViewWithBackground.swift */; };
 		4CB229F129B8287E00345D2A /* CircularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB229F029B8287E00345D2A /* CircularProgressView.swift */; };
 		4CB229F329B82A9D00345D2A /* extension+color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB229F229B82A9D00345D2A /* extension+color.swift */; };
+		4CB229F529B82DA100345D2A /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB229F429B82DA100345D2A /* TimerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		4C5CAFC829B82512002570A2 /* CircularProgressViewWithBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressViewWithBackground.swift; sourceTree = "<group>"; };
 		4CB229F029B8287E00345D2A /* CircularProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressView.swift; sourceTree = "<group>"; };
 		4CB229F229B82A9D00345D2A /* extension+color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "extension+color.swift"; sourceTree = "<group>"; };
+		4CB229F429B82DA100345D2A /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				4C5CAFC829B82512002570A2 /* CircularProgressViewWithBackground.swift */,
 				4CB229F029B8287E00345D2A /* CircularProgressView.swift */,
 				4CB229F229B82A9D00345D2A /* extension+color.swift */,
+				4CB229F429B82DA100345D2A /* TimerView.swift */,
 			);
 			path = CircularProgressViews;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CB229F529B82DA100345D2A /* TimerView.swift in Sources */,
 				4CB229F329B82A9D00345D2A /* extension+color.swift in Sources */,
 				4C5CAFC929B82512002570A2 /* CircularProgressViewWithBackground.swift in Sources */,
 				4C5CAFBD29B82438002570A2 /* ContentView.swift in Sources */,

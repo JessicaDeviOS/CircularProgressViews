@@ -11,7 +11,8 @@ import SwiftUI
 struct CircularProgressViewsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            TimerView(totalSeconds: 60)
         }
     }
 }
